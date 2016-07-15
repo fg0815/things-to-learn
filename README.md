@@ -25,6 +25,8 @@ http://www.jiuzhang.com/solutions/lru-cache/
 
 **Implement an algorithm to convert an integer into a roman numeral string and vice versa.**
 http://stackoverflow.com/questions/12967896/converting-integers-to-roman-numerals-java
+http://www.jiuzhang.com/solutions/integer-to-roman/
+http://www.jiuzhang.com/solutions/roman-to-integer/
 
 **nested array**
 https://gist.github.com/shoumikhin/ac5d40e11f957e30c649
