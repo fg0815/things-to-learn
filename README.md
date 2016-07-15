@@ -67,6 +67,7 @@ http://stackoverflow.com/questions/16871113/how-to-match-dna-sequence-pattern
 http://stackoverflow.com/questions/685060/design-a-stack-such-that-getminimum-should-be-o1
 
 **print factors for number**
+https://hzhou.me/LeetCode/LeetCode-Factor-Combinations.html
 
 **given like +77288.100, a772sb, 2000.00.11.
 return if it's a number.
