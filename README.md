@@ -3,10 +3,6 @@ http://www.programcreek.com/2013/02/leetcode-maximum-subarray-java/
 
 **linked list reversal**
 
-
-**Print out the level order traversal of a Binary Tree, with new line after each level.  /Binary Tree Serialization, deserialize**
-http://www.jiuzhang.com/solutions/binary-tree-preorder-traversal/
-
 **Merge two sorted lists**
 
 
@@ -38,26 +34,6 @@ https://www.careercup.com/question?id=5717488440442880
 **Isomorphic Strings**
 Using hashmap to check if the value is the same
 
-
-**square root**
-```
-boolean isPerfectSquare(long number)
-{
-    if (number < 0) return false;
-    if (number < 2) return true;
-
-    for (int i = 0; ; i++)
-    {
-        long square = squareTable[i];
-        if (square > number) return false;
-        while (number % square == 0)
-        {
-            number /= square;
-        }
-        if (number == 1) return true;
-    }
-}
-```
 **Given a dictionary find and set of two words find path from one word to another such that all the intermediate words are also from dictionary.
  Example: GOD -> GID -> DID -> DIG -> DOG.**
 http://www.programcreek.com/2012/12/leetcode-word-ladder/
